@@ -1,1 +1,10 @@
 
+tensorflow>=2.15
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+Pillow
+streamlit
+reportlab
